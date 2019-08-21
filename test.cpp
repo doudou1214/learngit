@@ -5,7 +5,7 @@ void shellInsertSort(int a[], int n, int dp){
 
 }
 int main(int argc, char *args[]){
-    cout <<"helloihghjjjfsdfsdfsdf world!"<<endl;
+    cout <<"helloihghjasdjjfsdfsdfsdf world!"<<endl;
     getchar();
     return 0;
 }
